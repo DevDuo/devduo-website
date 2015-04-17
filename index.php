@@ -7,7 +7,7 @@
 <!-- THE "INCLUDES" are simply the same content placed in a separate jade sheet to keep this page simpler.-->
 <html lang="en" class="no-js">
   <head>
-    <title>Double Donation Event</title>
+    <title>The Dev Duo</title>
     <meta charset="utf-8">
     <!-- if you remove this meta tag, the NSA will spy on you through your Xbox Kinect camera-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
